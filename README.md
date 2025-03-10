@@ -8,7 +8,7 @@
 
 ### Dataset Information:
 
-> CMS DATASET FILE DESCRIPTION:
+> DATASET FILE DESCRIPTION:
 >> A public use file containing information on expenditures and payment sources allowing researchers to conduct analysis on Medicare beneficiaries living only in the community. The Cost Supplement File Microdata Public Use File (PUF) dataset provides information on expenditures and payment sources for all services used by Medicare beneficiaries, including co-payments, deductibles, and non-covered services.
 
 > Resources for Using and Understanding the Data:
